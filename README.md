@@ -1,3 +1,3 @@
 # python-basics
-Zadania z pythona - Podstawy
+Zadania z pythona - Podstawy p
 podstawy
