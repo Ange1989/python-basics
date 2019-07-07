@@ -1,2 +1,2 @@
 # python-basics
-Zadania z pythona - Podstawy
+Zadania z podstaw pythona
